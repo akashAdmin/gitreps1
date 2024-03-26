@@ -1,3 +1,3 @@
-fucntion(){
+fucntion app(){
 //main branch
 }
