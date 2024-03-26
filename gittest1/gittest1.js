@@ -1,3 +1,3 @@
-function Akash(params) {
+function app() {
   //main branch
 }
