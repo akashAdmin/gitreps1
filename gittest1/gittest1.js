@@ -1,2 +1,2 @@
-function Akash(params) {}
+function userconfig(params) {}
 //gitreps2
